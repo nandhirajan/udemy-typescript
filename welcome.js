@@ -1,4 +1,5 @@
 function greetings(msg) {
     console.log(msg);
 }
-greetings("Greetings");
+greetings("Greetings Ts1");
+//# sourceMappingURL=welcome.js.map

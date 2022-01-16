@@ -2,4 +2,4 @@ function greetings(msg: string) {
     console.log(msg);
 }
 
-greetings("Greetings");
+greetings("Greetings Ts1");
