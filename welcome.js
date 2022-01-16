@@ -1,4 +1,4 @@
-function greetings() {
-    console.log("Greetings");
+function greetings(msg) {
+    console.log(msg);
 }
-greetings();
+greetings("Greetings");
