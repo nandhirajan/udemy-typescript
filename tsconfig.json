@@ -3,8 +3,6 @@
         "sourceMap": true
     },
     "files": [
-        "welcome.ts",
-        "variables.ts",
-        "datatypes.ts"
+        "typeAlias.ts"
     ]
 }
