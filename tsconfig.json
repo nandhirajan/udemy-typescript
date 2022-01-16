@@ -4,6 +4,7 @@
     },
     "files": [
         "welcome.ts",
-        "variables.ts"
+        "variables.ts",
+        "datatypes.ts"
     ]
 }
