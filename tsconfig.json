@@ -3,6 +3,7 @@
         "sourceMap": true
     },
     "files": [
-        "welcome.ts"
+        "welcome.ts",
+        "variables.ts"
     ]
 }
