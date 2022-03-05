@@ -1,1 +1,3 @@
-
+- It's a language that builds on Javascript and add syntax for types.
+- Type helps to describe what kind of values you are working with and what type of functions you are calling.
+- Help to avoid mistakes like typos, missing arguments, forgetting to check for null or undefined
