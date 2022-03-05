@@ -19,3 +19,5 @@ Course Link : [Udemy](https://byjus.udemy.com/course/introduction-typescript-dev
 - sourceMap:true -> Enables to convert ts to js
 - files -> List of files that can be converetd to js
 - Execute ```tsc``` to create the map file ```<filename.js.map>```
+
+### Latest Version - 4.6
