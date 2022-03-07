@@ -21,3 +21,6 @@ Course Link : [Udemy](https://byjus.udemy.com/course/introduction-typescript-dev
 - Execute ```tsc``` to create the map file ```<filename.js.map>```
 
 ### Latest Version - 4.6
+
+### Migrate Node Js Project from Javascript to Typescript
+- https://www.youtube.com/watch?v=qFMMOJucqTw
