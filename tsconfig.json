@@ -3,6 +3,6 @@
         "sourceMap": true
     },
     "files": [
-        "classes.ts"
+        "inheritance.ts"
     ]
 }
