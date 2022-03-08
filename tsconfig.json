@@ -3,6 +3,6 @@
         "sourceMap": true
     },
     "files": [
-        "inheritance.ts"
+        "interface.ts"
     ]
 }
